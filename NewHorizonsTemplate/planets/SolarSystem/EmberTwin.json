@@ -1,0 +1,18 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",    
+    "name": "Ember Twin",
+    "Props": {
+        "dialogue": [           
+            {
+                "position": {
+                    "x": 16.9945,
+                    "y": -40.7713,
+                    "z": 185.9359
+                },
+                "xmlFile": "planets/Dialogue/Out_Of_Order.xml",
+                "lookAtRadius": 3,
+                "radius": 1
+            }
+        ]
+    }
+}

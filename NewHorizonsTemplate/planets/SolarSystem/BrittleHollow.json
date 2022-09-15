@@ -1,0 +1,40 @@
+{
+    "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",    
+    "name": "Brittle Hollow",
+    "Props": {
+        "nomaiText": [
+            {
+                "arcInfo": [
+                    {
+                        "position": {
+                            "x": 0.4,
+                            "y": 0.5
+                        },
+                        "type": "adult",
+                        "variation": 28,
+                        "zRotation": 93.0
+                    }
+                ],
+                "normal": {
+                    "x": -0.719040334,
+                    "y": 0.0947849154,
+                    "z": 0.688474655
+                },
+                "position": {
+                    "x": -2.71077561,
+                    "y": -70.5499,
+                    "z": 1.55687451
+                },
+                "rotation": {
+                    "x": 356.639343,
+                    "y": 314.3946,
+                    "z": 86.70398
+                },
+                "seed": 42,
+                "type": "wall",
+                "location": "unspecified",
+                "xmlFile": "planets/Text/Text_Tower.xml"                
+            }
+        ]
+    }
+}
